@@ -87,7 +87,7 @@ FAQ
 + [olroyko/kottans-js-2016](https://github.com/olroyko/kottans-js-2016.git)
 + [spatialhast/kottans-js-2016](https://github.com/spatialhast/kottans-js-2016.git)
 + [OperKH/kottans-js-2016](https://github.com/OperKH/kottans-js-2016.git)
-+ [VladyslavIstomin/kottans-js-2016] (https://github.com/VladyslavIstomin/kottans-js-2016.git)
++ [VladyslavIstomin/kottans-js-2016](https://github.com/VladyslavIstomin/kottans-js-2016.git)
 + [Dmitriy-Yarygin/kottans-js-2016](https://github.com/Dmitriy-Yarygin/kottans-js-2016.git)
 + [Kost9in/kottans-js-2016](https://github.com/Kost9in/kottans-js-2016)
 + [AndriyErmak/kottans-js-2016](https://github.com/AndriyErmak/kottans-js-2016)
@@ -95,6 +95,7 @@ FAQ
 + [ElenaP/kottans-js-2016](https://github.com/ElenaP/kottans-js-2016)
 + [sherlaimov/kottans-js-2016](https://github.com/sherlaimov/kottans-js-2016)
 + [chrom/cottans-js-2016](https://github.com/chrom/cottans-js-2016)
++ [slavon86/kottans-js-2016](https://github.com/slavon86/kottans-js-2016.git)
 
 ## Львов:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
