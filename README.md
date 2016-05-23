@@ -113,6 +113,7 @@ FAQ
 + [AndriyUkrajnets/kottans-js-2016](https://github.com/AndriyUkrajnets/kottans-js-2016)
 + [kozakdenys/kottans-js-2016](https://github.com/kozakdenys/kottans-js-2016)
 + [GusarL/JS2016-3](https://github.com/GusarL/kottans_homework.git)
++ [webmint/kottans-js-2016](https://github.com/webmint/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз. Учи и помогай другим
