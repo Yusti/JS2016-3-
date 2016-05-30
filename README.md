@@ -106,7 +106,7 @@ FAQ
 + [Leomund/kottans-js-2016](https://github.com/Leomund/kottans-js-2016.git)
 + [Zaleskyy/kottans-js-2016](https://github.com/zalesky/kottans-js-2016.git)
 + [scorpioRED/kottans-js-2016](https://github.com/scorpioRED/kottans-js-2016.git)
-+ [irkafox/kottans-js-2016](https://github.com/irkafox/kottans-js-2016)
++ [~~irkafox/kottans-js-2016~~](https://github.com/irkafox/kottans-js-2016)
 + [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
 + [romtso/kottans-js-2016](https://github.com/romtso/kottans-js-2016.git)
 + [nazartsyhanyuk/kottans-js-2016](https://github.com/nazartsyhanyuk/kottans-js-2016)
@@ -115,7 +115,6 @@ FAQ
 + [kozakdenys/kottans-js-2016](https://github.com/kozakdenys/kottans-js-2016)
 + [GusarL/JS2016-3](https://github.com/GusarL/kottans_homework.git)
 + [webmint/kottans-js-2016](https://github.com/webmint/kottans-js-2016.git)
-+ [OriStakh/kottans-homework](https://github.com/OriStakh/kottans-homework.git)
 + [iprometeus/kottans-js-2016](https://github.com/iprometeus/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
